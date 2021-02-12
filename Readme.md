@@ -89,9 +89,17 @@ Email us a zip file containing your solution. Alternatively, create a Github rep
 
 ## How to install
 install Node version 12 or above
+
 redirect to root directory
-run this command `npm install`
+run this command `npm i`
 
 ## How to run
 
 `npm start`
+
+## Output
+
+Result will be stored in following files
+
+1. firstChallengeResults.json
+2. secondChallengeResults.json
