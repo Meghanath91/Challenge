@@ -88,16 +88,20 @@ Remember, this is production level code. The aspects of your code we will judge 
 Email us a zip file containing your solution. Alternatively, create a Github repo. If you decide to make the repo private, add @overbondeng as a collaborator. 
 
 ## How to install
-install Node version 12 or above
 
-redirect to root directory
-run this command `npm i`
+clone the repository `https://github.com/Meghanath91/Challenge`
 
-## How to run
+redirect to root directory  `cd`
+
+install npm (6 or above) and Node version (12 or above)
+
+run this command to install dependencies `npm i`
+
+## How to start application
 
 `npm start`
 
-## Output
+## How to see Output
 
 Result will be stored in following files
 
